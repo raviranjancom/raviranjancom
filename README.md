@@ -3,9 +3,9 @@
 <img src="https://github.com/raviranjancom/RaviRanjan04/blob/main/dk.jpg" width="100%" >
 
 - 👋 Hi, I’m Ravi Ranjan
-- 👀 I’m interested in Prgramming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on DSA and Python
+- 👀 I’m interested in Comptative Programming
+- 🌱 I’m currently learning C++, C , Python , MongoDB , Mysql , HTML-CSS
+- 💞️ I’m looking to collaborate on DSA and Python , C++ , C , MongoDB , HTML-CSS ,Mysql and Comptative Programming
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
