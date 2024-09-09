@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m Ravi Ranjan
 - 👀 I’m interested in Comptative Programming
-- 🌱 I’m currently learning C++, C , Python , MongoDB , Mysql , HTML-CSS
-- 💞️ I’m looking to collaborate on DSA and Python , C++ , C , MongoDB , HTML-CSS ,Mysql and Comptative Programming
+- 🌱 I’m currently learning C++, C , Python , Mysql , HTML-CSS
+- 💞️ I’m looking to collaborate on DSA and Python , C++ , C , HTML-CSS ,Mysql and Comptative Programming
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
