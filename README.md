@@ -1,4 +1,4 @@
-<h1> align="center">🚀 Portfolio of Ravi Ranjan</h1>
+<h1 align="center">🚀 Portfolio of Ravi Ranjan</h1>
 
 ---
 
