@@ -16,7 +16,7 @@ Hello! I'm Ravi Ranjan, a passionate developer with a keen interest in building 
 
 *🔭 What I'm currently working on:*
 * AI Projects.
-* Full Stack Web Development.
+* Java Stack Web Development.
 
 *🌱 My learning journey:*
 I'm continuously expanding my skillset, currently diving deep into *C++ DSA*
