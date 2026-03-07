@@ -1,17 +1,32 @@
-# Hello, I'm Rajeev Ranjan
+# Hello, I'm Ravi Ranjan
 
-<img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11111.png" width="100%" >
+<img src="https://github.com/raviranjancom/raviranjancom/blob/main/11111.png" width="100%" >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevranjancom&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevranjancom&show_icons=true&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/rajeevranjancom/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviranjancom&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raviranjancom&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/raviranjancom/count.svg)
 ## WHOAMI
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 2 Analyst.
-Experienced cyber security professional with over 3+ years of dedicated expertise as a SOC analyst, specializing in
-Threat Hunting, alert monitoring, and Incident Response, and client engagement. Demonstrated ability to effectively
-mitigate threats and safeguard organizational assets through proactive monitoring and rapid response strategies.
-Committed to staying ahead of emerging cyber threats and continuously enhancing defensive capabilities.
+Hi there, I'm Ravi Ranjan 👋
+Backend Developer | Systems Enthusiast 
+
+I am a 3rd-year B.Tech undergraduate currently transitioning my focus from competitive programming to building robust, scalable backend systems. I enjoy tackling complex architectural challenges and writing efficient, clean code.
+
+What I'm up to:
+
+💻 Engineering the Backend: Currently working on backend development, utilizing technologies like Python and the MERN stack to build out complex architectures (like my Unified Order & Workflow Platform).
+
+🧠 Problem Solving: Solved 500+ DSA problems across platforms like LeetCode, Codeforces and GeeksForGeeks. I rely on my strong foundation in C++ to write highly optimized logic.
+
+🚀 Current Focus: Deepening my knowledge in systems design, real-time orchestration, and transactional workflows to target roles at fast-paced, product-based startups.
+
+Tech Stack & Tools:
+
+Languages: C++, Python, JavaScript
+
+Backend & Databases: Node.js/Express, MongoDB
+
+Core Skills: Data Structures & Algorithms, Object-Oriented Programming, API Design, System Architecture
 
 ## Tools
 
@@ -46,7 +61,7 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Mitre Based Usecases | <a href="https://github.com/rajeevranjancom/Mitre-Based-Usecases?tab=readme-ov-file#readme">Mitre Based Usecases </a>|
+| Mitre Based Usecases | <a href="https://github.com/raviranjancom/Mitre-Based-Usecases?tab=readme-ov-file#readme">Mitre Based Usecases </a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Sigma Rule| <a href="https://google.com">Detection Lab</a>|
@@ -56,21 +71,21 @@ Committed to staying ahead of emerging cyber threats and continuously enhancing 
 
 ## :)
 <div align="left">
-  <img alt="1" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/1.gif">
-  <img alt="2" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/2.gif">
-  <img alt="3" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/3.gif">
-  <img alt="4" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/4.gif">
-  <img alt="6" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/6.gif">
-  <img alt="7" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/7.gif">
-  <img alt="8" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/8.gif"> 
-  <img alt="10" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/10.gif">
-  <img alt="11" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11.gif">
-  <img alt="22" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/22.gif">
-  <img alt="12" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/12.gif">
-  <img alt="24" height="100" src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/24.gif">
+  <img alt="1" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/1.gif">
+  <img alt="2" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/2.gif">
+  <img alt="3" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/3.gif">
+  <img alt="4" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/4.gif">
+  <img alt="6" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/6.gif">
+  <img alt="7" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/7.gif">
+  <img alt="8" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/8.gif"> 
+  <img alt="10" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/10.gif">
+  <img alt="11" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/11.gif">
+  <img alt="22" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/22.gif">
+  <img alt="12" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/12.gif">
+  <img alt="24" height="100" src="https://github.com/raviranjancom/raviranjancom/blob/main/24.gif">
 </div>
 
-- 🌱 I’m currently Working at: SISA Information Security
-- 👯 I’m looking to collaborate on: Threat Hunting
+- 🌱 I’m currently Studying at: Uttaranchal Institute of Technology
+- 👯 I’m looking to collaborate on: DSA and Python
 - 🤔 I’m looking for help with: AD
-- 📫 How to reach me: cs19rajeev@gmail.com
+- 📫 How to reach me: cs27ravi@gmail.com
