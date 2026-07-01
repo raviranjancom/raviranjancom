@@ -16,7 +16,7 @@ What I'm up to:
 
 💻 Engineering the Backend: Currently working on backend development, utilizing technologies like Python and the MERN stack to build out complex architectures (like my Unified Order & Workflow Platform).
 
-🧠 Problem Solving: Solved 500+ DSA problems across platforms like LeetCode, Codeforces and GeeksForGeeks. I rely on my strong foundation in C++ to write highly optimized logic.
+🧠 Problem Solving: Solved 1000+ DSA problems across platforms like LeetCode, Codeforces and GeeksForGeeks. I rely on my strong foundation in C++ to write highly optimized logic.
 
 🚀 Current Focus: Deepening my knowledge in systems design, real-time orchestration, and transactional workflows to target roles at fast-paced, product-based startups.
 
